@@ -8,7 +8,7 @@ Please feel free to clone, change the images and change the href links so that y
 
 To install it on google Chrome:
 
-1. type chrome://extensions/ into the address bar.
+1. Open Google chrome and type chrome://extensions/ into the address bar.
 2. Enable developer mode.
 3. Click load unpacked and upload the local repo.
 4. Click on the extensions button to the right of the address bar and pin it.
