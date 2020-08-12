@@ -1,6 +1,6 @@
 # Jon Lugg Chrome Extension
 
-This was a project to learn how to create a basic google chrome extension.
+This was a project I used to learn how to create a basic google chrome extension.
 
 It does work and when installed it allows you to view my social media links.
 
